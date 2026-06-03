@@ -1,0 +1,8 @@
+torch>=1.12
+torchvision>=0.13
+numpy>=1.24.4,<2
+scikit-learn>=1.6,<1.7
+scikit-image>=0.24,<0.25
+pillow>=11,<12
+tqdm>=4.67
+requests>=2.31,<3
